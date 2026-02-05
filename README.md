@@ -58,17 +58,20 @@ The dataset is contained within the Excel workbook adventure_works_dashboard.xls
 
 ## 📊 Dashboards & Visualizations  
 
-**Excel Dashboard**
-- Built using pivot tables and charts  
-- Provides a high-level overview of sales, products, and regions  
+<h3>🔹 Excel Dashboard</h3>
+<p align="center">
+  <img src="images/excel_dashboard.png" width="85%">
+</p>
 
-**Power BI Dashboard**
-- Interactive dashboard with KPIs, slicers, and drill-downs  
-- Analyzes revenue trends, customer segments, and regional performance  
+<h3>🔹 Power BI Dashboard</h3>
+<p align="center">
+  <img src="images/powerbi_dashboard.png" width="85%">
+</p>
 
-**Tableau Dashboard**
-- Dynamic visualizations focused on storytelling  
-- Highlights regional sales trends and customer behavior  
+<h3>🔹 Tableau Dashboard</h3>
+<p align="center">
+  <img src="images/tableau_dashboard.png" width="85%">
+</p>  
 
 --- 
 
