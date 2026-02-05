@@ -58,19 +58,19 @@ The dataset is contained within the Excel workbook adventure_works_dashboard.xls
 
 ## 📊 Dashboards & Visualizations  
 
-<h3>🔹 Excel Dashboard</h3>
+<h3 align="center"> Excel Dashboard</h3>
 <p align="center">
-  <img src="images/excel_dashboard.png" width="85%">
+  <img src="Images/excel_dashboard.png" width="85%">
 </p>
 
-<h3>🔹 Power BI Dashboard</h3>
+<h3 align="center"> Power BI Dashboard</h3>
 <p align="center">
-  <img src="images/powerbi_dashboard.png" width="85%">
+  <img src="Images/powerbi_dashboard.png" width="85%">
 </p>
 
-<h3>🔹 Tableau Dashboard</h3>
+<h3 align="center"> Tableau Dashboard</h3>
 <p align="center">
-  <img src="images/tableau_dashboard.png" width="85%">
+  <img src="Images/tableau_dashboard.png" width="85%">
 </p>  
 
 --- 
