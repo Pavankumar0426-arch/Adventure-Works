@@ -48,7 +48,7 @@ The dataset is contained within the Excel workbook adventure_works_dashboard.xls
 
 ## 🧾 SQL Analysis
 
-- SQL was used to analyze the Adventure Works data and extract key business insights  
+- SQL was used to analyze the Adventure Works data and extract key business insights, including:   
 - Total sales and revenue by region and year  
 - Top-selling products and categories  
 - Customer purchase behavior and contribution to revenue  
